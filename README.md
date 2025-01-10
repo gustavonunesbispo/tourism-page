@@ -1,6 +1,6 @@
 ![Local Turístico](https://i.imgur.com/UEzNX7Z.jpeg)
 
-# Local Turístico
+# Página de Turismo
 
 Página sobre atrações turísticas em Busan, estruturada com HTML5 e estilizada com CSS3.
 
